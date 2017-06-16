@@ -8,7 +8,7 @@ A single layer Siamese LSTM is used as a model for finding similarity between tw
 
 quora dataset
 
-Result
+## Result
 
 Accuracy:79%
 
