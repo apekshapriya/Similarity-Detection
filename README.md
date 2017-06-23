@@ -12,3 +12,4 @@ quora dataset
 
 Accuracy:79%
 
+![alt text](loss_similarity.png)
