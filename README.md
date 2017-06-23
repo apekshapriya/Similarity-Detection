@@ -12,4 +12,6 @@ quora dataset
 
 Accuracy:79%
 
+## Training Vs Validation LOSS graph
+
 ![alt text](loss_similarity.png)
